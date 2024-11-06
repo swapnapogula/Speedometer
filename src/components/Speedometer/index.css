@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.img {
+  height: 250px;
+  width: 50%;
+}
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-container {
+}
+.btn1 {
+  margin: 10px;
+  background-color: #0b69ff;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn2 {
+  margin: 10px;
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid white;
+}
